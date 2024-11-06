@@ -1,26 +1,29 @@
-import logo from './logo.svg';
+import React from 'react';
+import './commoncss/bootstrap.css';
+import './commoncss/font-icon.css';
 import './App.css';
-
+import Header from './components/Header';
+import WeddingDate from './components/WeddingDate';
+import CountDown from './components/CountDown';
+import WeddingDetails from './components/WeddingDetails2';
+import Invitation from './components/Invitation';
+import Weddinglocation from './components/Weddinglocation'
+import Contact from './components/Contact';
+import CommentSection from './components/CommentSection';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <h1>WELCOME ALL</h1>
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+     <WeddingDate />
+     <CountDown />
+     <Invitation />
+     <Weddinglocation />
+     <WeddingDetails />
+     <Contact />
+      <CommentSection />
     </div>
+    
   );
-}
+};
 
 export default App;
