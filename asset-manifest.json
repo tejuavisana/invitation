@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/invitation/static/css/main.75be3473.css",
+    "main.css": "/invitation/static/css/main.a56d4854.css",
     "main.js": "/invitation/static/js/main.f4160d4d.js",
     "static/media/ap.png": "/invitation/static/media/ap.4367eaa137a3e8c04a46.png",
+    "static/media/slider-1-1600x900.jpg": "/invitation/static/media/slider-1-1600x900.6d49bf4d73364cfeb9ae.jpg",
     "static/media/bride.jpeg": "/invitation/static/media/bride.c4fcd2be1929e75d11c8.jpeg",
     "static/media/counter-1-1600x600.jpg": "/invitation/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
     "static/media/groom.jpeg": "/invitation/static/media/groom.f644cb32578c8263e716.jpeg",
     "static/media/w22.png": "/invitation/static/media/w22.a93129e79ba00100cc9b.png",
     "static/media/brideback.jpg": "/invitation/static/media/brideback.e80a60bee54895ac18ce.jpg",
-    "static/media/slider-1-1600x900.jpg": "/invitation/static/media/slider-1-1600x900.456bdbcf61db0362feda.jpg",
     "static/media/webzed-font-1.svg": "/invitation/static/media/webzed-font-1.b1a44af6e0b9f35cbc65.svg",
     "static/media/Background_Circle.png": "/invitation/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
     "static/media/webzed-font-1.eot": "/invitation/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
     "static/media/webzed-font-1.ttf": "/invitation/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
     "static/media/webzed-font-1.woff": "/invitation/static/media/webzed-font-1.d1595007862c0851fa30.woff",
     "index.html": "/invitation/index.html",
-    "main.75be3473.css.map": "/invitation/static/css/main.75be3473.css.map",
+    "main.a56d4854.css.map": "/invitation/static/css/main.a56d4854.css.map",
     "main.f4160d4d.js.map": "/invitation/static/js/main.f4160d4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.75be3473.css",
+    "static/css/main.a56d4854.css",
     "static/js/main.f4160d4d.js"
   ]
 }
