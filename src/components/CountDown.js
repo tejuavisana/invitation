@@ -5,7 +5,7 @@ const CountDown = () => {
     const [timeLeft, setTimeLeft] = useState({ days: 0, hours: 0, minutes: 0, seconds: 0 });
 
     useEffect(() => {
-        const countDownDate = new Date("Feb 23, 2025 10:53:25").getTime();
+        const countDownDate = new Date("DEC 14, 2024 11:00:00").getTime();
 
         const updateCountdown = () => {
             const now = new Date().getTime();

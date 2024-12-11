@@ -11,7 +11,7 @@ const Invitation = () => {
                     <div className="col-sm-10">
                         <div className="heading">
                             <h2>Namasthe!</h2>
-                            <p>We invite you to be with us as we celebrate our new life together</p>
+                            <p>We invite you to be with us as we celebrate Our engagement</p>
                             <span className="heading-bottom"><i className="icon icon-star"></i></span>
                         </div>
 
@@ -22,8 +22,8 @@ const Invitation = () => {
     backgroundRepeat: "no-repeat"}}  alt="groom" className="img-responsive" />
                                 </div>
                                 <div className="desc-groom">
-                                    <h3>Dheeraj</h3>
-                                    <h5>D/O Subbareddy</h5>
+                                    <h3>Dheeraj Reddy Obulam</h3>
+                                    <h5>S/O Subbareddy</h5>
                                     <h5>Venkata Subbamma</h5>
                                 </div>
                             </div>
@@ -37,7 +37,7 @@ const Invitation = () => {
                                     <img src={bride} alt="bride" className="img-responsive" />
                                 </div>
                                 <div className="desc-bride">
-                                    <h3>Teju</h3>
+                                    <h3>Tejaswini Sai Avisana</h3>
                                     <h5>D/O Babu NagiReddy</h5>
                                     <h5>Adi Lakshmi Devi</h5>
                                 </div>

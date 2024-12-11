@@ -5,22 +5,26 @@ import './App.css';
 import Header from './components/Header';
 import WeddingDate from './components/WeddingDate';
 import CountDown from './components/CountDown';
-import WeddingDetails from './components/WeddingDetails2';
+import Video from './components/video';
 import Invitation from './components/Invitation';
+
+{/*import WeddingDetails from './components/WeddingDetails2';
 import Weddinglocation from './components/Weddinglocation'
 import Contact from './components/Contact';
-import CommentSection from './components/CommentSection';
+import CommentSection from './components/CommentSection';*/}
 function App() {
   return (
     <div className="App">
+      <Invitation />
+      <Video />
       <Header />
      <WeddingDate />
      <CountDown />
-     <Invitation />
-     <Weddinglocation />
+     
+   {/* <Weddinglocation />
      <WeddingDetails />
      <Contact />
-      <CommentSection />
+      <CommentSection />*/}
     </div>
     
   );

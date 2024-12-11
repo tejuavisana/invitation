@@ -11,9 +11,9 @@ const WeddingDate = () => {
                     <div className="slider-content">
 
                         <img className="sindur-dan" src={sindurdan} alt="Sindur Dan"/>
-                        <h5 className="date">23rd Feb 2025</h5>
+                        <h5 className="date"> DEC 14 2024</h5>
                         <h3 className="pre-title">Save The Date</h3>
-                        <h1 className="title">Dheeraj  <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Teju</h1>
+                        <h1 className="title">Dheeraj  <img className="sindur-dan" src={hand} alt="Sindur Dan"/> Tejaswini</h1>
                         <br/>
                         <h3><a href="url" target="_blank" rel="noopener noreferrer"> Watch our Engagement Live!
 </a></h3>

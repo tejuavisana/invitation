@@ -17,7 +17,7 @@ const Weddinglocation = () => {
 						<div className="w-detail right">
 							<i className="icon icon-ciurclke"></i>
 							<h4 className="title">WEDDING CEREMONY</h4>
-                            <p>Sunday, February 23 2024</p>
+                            <p>May 2025</p>
 							<p>YVR Kalyanamandapam</p>
                             <p><i className="icon icon-email-plane"></i></p>
                             <p>Prodhutur, Kadapa, Andhra Pradesh</p>
