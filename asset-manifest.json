@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f896f68.css",
-    "main.js": "/static/js/main.0757e7a0.js",
-    "static/media/ap.png": "/static/media/ap.4367eaa137a3e8c04a46.png",
-    "static/media/bride.jpeg": "/static/media/bride.c4fcd2be1929e75d11c8.jpeg",
-    "static/media/counter-1-1600x600.jpg": "/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
-    "static/media/groom.jpeg": "/static/media/groom.f644cb32578c8263e716.jpeg",
-    "static/media/w22.png": "/static/media/w22.a93129e79ba00100cc9b.png",
-    "static/media/brideback.jpg": "/static/media/brideback.e80a60bee54895ac18ce.jpg",
-    "static/media/slider-1-1600x900.jpg": "/static/media/slider-1-1600x900.456bdbcf61db0362feda.jpg",
-    "static/media/webzed-font-1.svg": "/static/media/webzed-font-1.b1a44af6e0b9f35cbc65.svg",
-    "static/media/Background_Circle.png": "/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
-    "static/media/webzed-font-1.eot": "/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
-    "static/media/webzed-font-1.ttf": "/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
-    "static/media/webzed-font-1.woff": "/static/media/webzed-font-1.d1595007862c0851fa30.woff",
-    "index.html": "/index.html",
-    "main.1f896f68.css.map": "/static/css/main.1f896f68.css.map",
-    "main.0757e7a0.js.map": "/static/js/main.0757e7a0.js.map"
+    "main.css": "/tejuavisana/invitation/static/css/main.5935bb33.css",
+    "main.js": "/tejuavisana/invitation/static/js/main.c89cb694.js",
+    "static/media/ap.png": "/tejuavisana/invitation/static/media/ap.4367eaa137a3e8c04a46.png",
+    "static/media/bride.jpeg": "/tejuavisana/invitation/static/media/bride.c4fcd2be1929e75d11c8.jpeg",
+    "static/media/counter-1-1600x600.jpg": "/tejuavisana/invitation/static/media/counter-1-1600x600.49c7d06d243a7c95222c.jpg",
+    "static/media/groom.jpeg": "/tejuavisana/invitation/static/media/groom.f644cb32578c8263e716.jpeg",
+    "static/media/w22.png": "/tejuavisana/invitation/static/media/w22.a93129e79ba00100cc9b.png",
+    "static/media/brideback.jpg": "/tejuavisana/invitation/static/media/brideback.e80a60bee54895ac18ce.jpg",
+    "static/media/slider-1-1600x900.jpg": "/tejuavisana/invitation/static/media/slider-1-1600x900.456bdbcf61db0362feda.jpg",
+    "static/media/webzed-font-1.svg": "/tejuavisana/invitation/static/media/webzed-font-1.b1a44af6e0b9f35cbc65.svg",
+    "static/media/Background_Circle.png": "/tejuavisana/invitation/static/media/Background_Circle.c7dd84a1d422e8f23e93.png",
+    "static/media/webzed-font-1.eot": "/tejuavisana/invitation/static/media/webzed-font-1.bdb465a9d6648defd0b4.eot",
+    "static/media/webzed-font-1.ttf": "/tejuavisana/invitation/static/media/webzed-font-1.7f3ce7c026a4ac0f99ec.ttf",
+    "static/media/webzed-font-1.woff": "/tejuavisana/invitation/static/media/webzed-font-1.d1595007862c0851fa30.woff",
+    "index.html": "/tejuavisana/invitation/index.html",
+    "main.5935bb33.css.map": "/tejuavisana/invitation/static/css/main.5935bb33.css.map",
+    "main.c89cb694.js.map": "/tejuavisana/invitation/static/js/main.c89cb694.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f896f68.css",
-    "static/js/main.0757e7a0.js"
+    "static/css/main.5935bb33.css",
+    "static/js/main.c89cb694.js"
   ]
 }
